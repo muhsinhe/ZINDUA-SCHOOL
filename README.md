@@ -1,2 +1,2 @@
 # ZINDUA-SCHOOL
-This is a simple web site for zindua
+A simple Zindua School Landing page with Tailwind css
